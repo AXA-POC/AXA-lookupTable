@@ -1,1 +1,1 @@
-MKCT00-Online Cobol w/o DB2
+INS01PGM-Batch Cobol w/o DB2
